@@ -6,9 +6,5 @@ Texto sobre nosotros...
 
 hacer cierre de presentacion, invitando a contactar
 
-## Technologies
-
-- HTML
-- CSS
-- JS
-- PHYTON
+## Skills
+- Coaching
