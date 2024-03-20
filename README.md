@@ -5,3 +5,7 @@ Texto sobre nosotros...
 ## Contact me
 
 hacer cierre de presentacion, invitando a contactar
+
+## Hobbies
+
+- Buildings codes
