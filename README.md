@@ -5,3 +5,8 @@ Texto sobre nosotros...
 ## Contact me
 
 hacer cierre de presentacion, invitando a contactar
+## Idiomas
+
+- English
+- Spanish
+- Portuguese
