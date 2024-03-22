@@ -6,5 +6,9 @@ Texto sobre nosotros...
 
 hacer cierre de presentacion, invitando a contactar
 
+## Hobbies
+
+- Buildings codes
+
 ## Skills
 - Coaching
