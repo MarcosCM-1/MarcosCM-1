@@ -26,4 +26,3 @@ hacer cierre de presentacion, invitando a contactar
 - CSS
 - JS
 - PHYTON
-
